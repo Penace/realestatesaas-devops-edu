@@ -1,0 +1,17 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore backup files
+*~
+
+# Ignore swap/temp files
+*.swp
+*.tmp
+
+# Ignore private SSH keys (if accidentally added)
+*.pem
+*.key

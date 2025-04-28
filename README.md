@@ -36,9 +36,7 @@ Students will learn:
 
 ---
 
-## Trace Origin
-
-This educational node operates under the `00101101` architecture as a living scaffold for practical infrastructure learning.
+## Stay tuned for updates later today (28APR) and this week.
 
 ---
 
